@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T22:41:49.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.771 YaBrowser/23.11.2.771 Yowser/2.5 Safari/537.36" etag="WJapPO5kQdBP7HCXchpz" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T22:44:32.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.771 YaBrowser/23.11.2.771 Yowser/2.5 Safari/537.36" etag="xsvGAlx69H2-ariCqMxy" version="22.1.11" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1146" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -146,6 +146,18 @@
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-14" value="Start" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="3nuBFxr9cyL0pnOWT2aG-16" vertex="1">
           <mxGeometry x="30" y="22" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="--Pn0QB4rwqAtQZEn9uE-81" value="Вкл. робота-пылесоса" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-16">
+          <mxGeometry x="30" y="82" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="--Pn0QB4rwqAtQZEn9uE-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-16" source="3nuBFxr9cyL0pnOWT2aG-14" target="--Pn0QB4rwqAtQZEn9uE-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="75" y="-298" as="targetPoint" />
+            <mxPoint x="75" y="-318" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="--Pn0QB4rwqAtQZEn9uE-85" value="Анализ обстановки" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-16">
+          <mxGeometry x="30" y="212" width="90" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-18" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="3nuBFxr9cyL0pnOWT2aG-15" vertex="1">
           <mxGeometry x="680" width="20" height="292" as="geometry">
             <mxRectangle width="20" height="292" as="alternateBounds" />
@@ -155,6 +167,9 @@
           <mxGeometry x="700" width="20" height="292" as="geometry">
             <mxRectangle width="20" height="292" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="--Pn0QB4rwqAtQZEn9uE-84" value="Анализ обстановки" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="90" y="640" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
