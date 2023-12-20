@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T22:22:01.769Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.771 YaBrowser/23.11.2.771 Yowser/2.5 Safari/537.36" etag="Vssuc0wxnxponq9ILo98" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T22:30:08.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.771 YaBrowser/23.11.2.771 Yowser/2.5 Safari/537.36" etag="NKFPVHAjNZcj0XpYWBMV" version="22.1.11" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1146" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -50,6 +50,14 @@
             <mxPoint x="65" y="280" as="sourcePoint" />
             <mxPoint x="75" y="190" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="--Pn0QB4rwqAtQZEn9uE-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-4" source="3nuBFxr9cyL0pnOWT2aG-6" target="--Pn0QB4rwqAtQZEn9uE-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="--Pn0QB4rwqAtQZEn9uE-21" value="Запрос на выполнение уборки" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-4">
+          <mxGeometry x="180" y="60" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-8" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="3nuBFxr9cyL0pnOWT2aG-3" vertex="1">
           <mxGeometry x="680" width="20" height="380" as="geometry">
